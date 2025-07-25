@@ -11,6 +11,21 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+  align-items: center;
+  text-align: center;
 }
 
 /* do not edit this footer */
